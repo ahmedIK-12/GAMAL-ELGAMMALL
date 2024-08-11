@@ -17,7 +17,7 @@ header {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 10px 50px ;
+    padding: 10px 20px ;
 }
 
 .logo{
@@ -212,11 +212,11 @@ section {
 }
 
 .contact .info h3 {
-    color: #000;
+    color: #000000;
 }
 
 .contact .info p {
-    font-size: 1.5em;
+    font-size: 5em;
 }
 
 .footer {
